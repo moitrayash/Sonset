@@ -1,13 +1,14 @@
 # MANIFEST
 # claude-opus-4.8_solar-sunset-2026
-# Regenerated 23 Jul 2026 (Fable 5), ninth revision batch: Sonset Almanac
-# title, published to the public GitHub repo 'Sonset'.
+# Regenerated 23 Jul 2026 (Fable 5), ninth revision batch: Sonset title,
+# published to public GitHub repo 'Sonset', Pages + custom domain live.
 # Covers every file in the tree; supersedes the earlier 23 Jul manifest.
 # src/__pycache__/ is untracked build residue, as before.
+# 70 files
 
 sha256                                                            size(bytes)  path
 
-d67e80310182419fcd9b931a58ff391a6921841287734c3420865defacbb0e2c       27835  README.md
+abedb9ee20ff52b70ea8aa534a55b667a2061cd9b2394592b66f5e53a488331f       28615  README.md
 1a77820d4f357530578823839864b758f56144d5d72b042dbb15b6365db82aa7      496040  outputs/almanac_2026.html
 8b2a8d9db8d83d923e014673a30f5a48b9b5c6101d603a862f9d9d75be3403b3     2163891  outputs/daily_2026_g20.csv
 64be5aac011cfa63f4f749f941f606ade3b382e09fefd6cda7d51dac89e91412      167184  outputs/fig_BOM.png

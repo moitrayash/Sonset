@@ -411,9 +411,19 @@ chart. Actions:
   operator's definition, linear by construction), with a hover-? explaining
   it. Map hover title switched to code-first to match the picker.
 - Ninth batch: almanac title changed to "Sonset Almanac" (operator's spelling,
-  confirmed), subtitle "Sunset Analysis, 2026"; the whole package published to
+  confirmed), subtitle revised twice mid-flight and settled as "Variance
+  between time of sunset over the year, 2026"; the whole package published to
   a new public GitHub repository named "Sonset" via the operator's browser
-  session, 23 Jul 2026.
+  session, 23 Jul 2026: six commits preserving the tree (root, src, prompts,
+  outputs in three parts), then almanac/index.html plus a root redirect so
+  GitHub Pages serves the almanac at /almanac/. Pages enabled from main,
+  custom domain sonset.yashmoitra.com set (CNAME added at Wix to
+  moitrayash.github.io, the same pattern as the operator's eleven existing
+  subdomains). yashmoitra.com itself updated: Sonset Almanac added to the
+  links, Dawai.in removed, and every link gained a hover description with
+  operator-supplied copy (Feathervane per-airport, "infrastructure" typo
+  corrected in the fixthis line). Enforce-HTTPS on the Pages site is left for
+  after the certificate issues; DNS propagation up to 48 h per Wix.
 - Eighth batch: six map themes behind a toggle (atlas, the original palette;
   ink; marble; parchment; neon; contrast), colours only, geometry and physics
   untouched; neon and parchment visually verified via headless render.
