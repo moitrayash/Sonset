@@ -1,0 +1,81 @@
+# MANIFEST
+# claude-opus-4.8_solar-sunset-2026
+# Regenerated 23 Jul 2026 (Fable 5), ninth revision batch: Sonset Almanac
+# title, published to the public GitHub repo 'Sonset'.
+# Covers every file in the tree; supersedes the earlier 23 Jul manifest.
+# src/__pycache__/ is untracked build residue, as before.
+
+sha256                                                            size(bytes)  path
+
+d67e80310182419fcd9b931a58ff391a6921841287734c3420865defacbb0e2c       27835  README.md
+1a77820d4f357530578823839864b758f56144d5d72b042dbb15b6365db82aa7      496040  outputs/almanac_2026.html
+8b2a8d9db8d83d923e014673a30f5a48b9b5c6101d603a862f9d9d75be3403b3     2163891  outputs/daily_2026_g20.csv
+64be5aac011cfa63f4f749f941f606ade3b382e09fefd6cda7d51dac89e91412      167184  outputs/fig_BOM.png
+8dd557bd1522f5bba308f2234766a188eb93247589dd9e0caac17844474e3948      169515  outputs/fig_CCU.png
+76dd80e6137a08b9e7017e5fad4f8fef197ac312e0755e0f51b68ae75f8ba169      174374  outputs/fig_DEL.png
+66232062ba1657939518521d1aaf13e2489a3383e4d22c71bb4aa991fe57bb3b      199863  outputs/fig_NYC.png
+ccbfdc4745e38ff239213b6ea55d48fb9fac1bbeedaa929d4915eea8dacd22f3      210695  outputs/fig_SEA.png
+e0602930830d0bb32c5a1a3b191231539437e1e64251ef1edf87207ff41def5e      144286  outputs/fig_amplitude_vs_latitude.png
+df04f0c2d7ea61e26bf68173fcee0b148ca0cff526ba0a2c706bb22027f06c3f      175626  outputs/fig_amplitude_vs_latitude_g20.png
+06ce61d288b2efaa49ac060d0f1bde1307a3137203eabc04f26f9b4689ff2ae9      236385  outputs/fig_combined_civil.png
+7a0171eb4097f37569dc996f77d3eca6a4448af8c6d4fd43d5f2c7c4e3d9be48      226925  outputs/fig_combined_daylight.png
+497e3f19e056b27bb7ccd5f4a5ba85438680fa4faee7e0e92e564a454ff0994e      237707  outputs/fig_combined_standard.png
+422944641c3a047eec7be3e41ee9f24accf8243988f5af95ec5afaf6cbfe28b6      184077  outputs/fig_daily_ACC.png
+3104a1153425ab23cb711d9f415596af228893a2a806002379817819d2882829      187847  outputs/fig_daily_ADD.png
+edf5fa895c569aa8108ad7ea9fa1616fd538c987fe16103d6301052789b51654      224279  outputs/fig_daily_AUS.png
+da07db7bbc8d39351240dac04a0617c58245e9da52d8c5e48685d02aa2d547f3      227109  outputs/fig_daily_BER.png
+a506cfd0e0dd35361dc4698a21b29d6ce39225914619d93e873ff5e086e3a6a7      192734  outputs/fig_daily_BKK.png
+695e1373d2d9114dd83692e2be3e5c8c812119aeb4c7db1d4e22317fb962c502      199295  outputs/fig_daily_BOM.png
+ac1ee210df66994d35ef09ed34ffb400368d8a7235c065a55d28acf25a7b92ba      194233  outputs/fig_daily_BSB.png
+92457f70ca69b0ee621a8796b3a51689aeb0fae7c5d237c0efa79380c4e80bd7      216804  outputs/fig_daily_CBR.png
+f08679cf9cb6bbcededa6904cb2a96b91a810c05b848febb5b6cb68762510892      201510  outputs/fig_daily_CCU.png
+f63e1f06c9920d9ff029e6d47e0158206182c185775089d4c9845a76a3677765      184652  outputs/fig_daily_CGK.png
+e2208eb55f8dede26910c304c24e3237b26eabf228e10f4e59ae99825bf3052d      201860  outputs/fig_daily_DEL.png
+09f7ad56b1917a95b64f4d044e584df0e5d95cc938b634e152bbefa59a18846e      212304  outputs/fig_daily_ESB.png
+e61aeb3365303669640059006c28f9c8d94264ab376b556a774f37cbf6f4f47c      209379  outputs/fig_daily_EZE.png
+ae514f5e7a71a5f49014084cb75c82ab0e4d6c8b1aaaa8160e0d018ab4050d95      219749  outputs/fig_daily_FCO.png
+fff71ecf5fbd5e99237656b0bb88bb382a7025894adccbe7c9b5ac4acc05243a      213818  outputs/fig_daily_GZA.png
+eb55bbcb59203a422e88d99b2781521827ffb822045fd437eed61046484165e5      207140  outputs/fig_daily_HND.png
+43ddbc6da9560cc6cf2afe1cd87e5c191a1570e2b532d902306549a8a34796e3      209770  outputs/fig_daily_ICN.png
+5af0e0125c9b23f2315fbd2476636543e0befce18c4033ee2c4f3eb09e45e4f6      230330  outputs/fig_daily_JFK.png
+5cbce798421669aad8726aa27043473a09df51ee5f8cfb4ff93704721410389e      184940  outputs/fig_daily_KGL.png
+6dc541537839cf439261d43f0d2801b2c250e929f37e6c4d8f185fd6c105d84c      226580  outputs/fig_daily_LAX.png
+95aa5ba14c2e876cb9ffd0d62424203eac5015f46d094e3a1e314502474faa83      225554  outputs/fig_daily_LHR.png
+275a653d69340a04a4dbaf4edc6c2b76c0e657d9944cd83694172a937ba51bce      199968  outputs/fig_daily_MEX.png
+137ad8df733401d8c4312a2a0ddb7ae790a25bf7477308334a6deb79acbb8e4b      223100  outputs/fig_daily_MIA.png
+5c985c7325e60ee79d1351a977a788b180a9a86204b018e5e2fdd5d855d732fe      191836  outputs/fig_daily_MNL.png
+b3fe648027eb5d2d1447b598d0017eb55badc4eec97e49badf4b7fa232921eda      218937  outputs/fig_daily_NQZ.png
+05046fd1f4ba4c8b55ec75c3a8353a6dfe00f338121e3afcfc6b6bc834a97e94      211567  outputs/fig_daily_PEK.png
+cf75c927aba8ffdd6c5fb7af3489a04dbc60825616357ef13b70cbe933a249dd      206268  outputs/fig_daily_PER.png
+af86bf5a4a9d359cb66125f0f9b7711884e856ea655028f768d60cc4061d836b      202992  outputs/fig_daily_PRY.png
+ed81554f8a0e303affc89141f84b2fc188eb82210bf44d2479b08ee4d154125d      215928  outputs/fig_daily_RAK.png
+96dbd7f898fac3f4f378bd381c209ad104fcc61d0f3b115e0e57c17362f3133d      201398  outputs/fig_daily_RUH.png
+2af464370963f60deb37232cf11a9cb02103370870b7109ee623db865b120d26      232429  outputs/fig_daily_SEA.png
+7409465c4d4fa3278cbd51029bfd54587098bac60c665b0388ca38eb5c511a73      227182  outputs/fig_daily_SFO.png
+a80ff5cde89a215d0a44532ea3881b134042911af3b8a9df000e41404ca8e4b5      224955  outputs/fig_daily_SVO.png
+e07c09a95684b311dd8daa12985e02ece1d500cdea1ea402ad775d3e8489a51d      201239  outputs/fig_daily_SZX.png
+aac512ea0a3ad6bddbe2a0a8acd3442c2a9cb75fb20c592097026f97d6b69a5f      211856  outputs/fig_daily_TAS.png
+6c9d516589c800fb80bd14c1931a9d2667f92941305265bc855dc9113dcc90a6      214465  outputs/fig_daily_URC.png
+d61fe80581ce5f5aa4f075a660a231ed3e2a882fbe94266c5c12b7349ea1f4ec      213016  outputs/fig_daily_VVO.png
+fdaf584dc4be7b98ee0c3387851cb38a9e29a84f100cedaee2435070f591b34c      223097  outputs/fig_daily_YUL.png
+2a9da5ab1eea40ec3ace2f513421ee32afd4b5251b5398acc624a7f43b511f8c         666  outputs/key_dates_jun04_nov08.csv
+71f96c45a17f5c835f314b137bdcfce15a4c128533717505e9c7ce3200c1cd8c         653  outputs/summary_extremes.csv
+a2855b90158453a4eb0922af333671d730368ad8451ed2ec32d5aa1b820711ac        3822  outputs/summary_extremes_g20.csv
+1192aa877cb6e9d7684d09a6f1b9580186c171ccf4b40dbc35615bcb1f96e707      146872  outputs/sunset_2026_all_cities.csv
+da7357ebffe59117aad18077d257719da36c9cb26c319867c28d7297e9e3aadd        3937  prompts/fix_figure_glyphs.md
+063bf3830d6414eedde07d23e093aa8e3bb88aada2082fe0bcae3bca31feaa6d        5203  prompts/observation_validation.md
+d388c47b77534cd132ed3c98291d7fb9c66946b390c2bac59983a135746ddbb5        2475  src/amp.py
+b26014ca389220305d98b4d861e960a1d89938338f3dd64c877aae87a22cb8af        2807  src/ampfig.py
+405d8f2f66b942127f2de47abcfacb4ecab31d1e0c006afda5364c968d2c5d3c        5588  src/ampfig_g20.py
+64e137d4f6e0328b5d8d26aebea163a7f01ea9047baec8619ab13c9a17774fdf       11554  src/analyze.py
+7c30508be052a3a5db70d1f4605463c8d52968a70ac140b430ea92e1352f407a       47657  src/build_almanac.py
+b54bbc11455432a76c0c89fcf15155de09bd2182b33a27e20dd5cc51866ef7ad        7317  src/daily.py
+00c73c2e439c8921370b0f4ccd3dace1924cee08e0ea32e466ba8dd98a151702       10460  src/daily_figs.py
+926f8ede8fb913e2bb13fbf134e5c4e5bb185786a9936939e0b12d53b28e6354        3209  src/glyphcheck.py
+65d1d644b6372d9404632d34e3e83cc1aef59ff02f96b7d8ef3357ed12ccda5c        9025  src/locations_g20.py
+14b9db00abe17b49a2aa381c841adb09d6542e040e7a4025f4cef0e87b5b276b        1849  src/make_landpath.py
+288511e2c0a6979f95534ee3546974bff57ea85c9d0701aa0070ccdd80bca450       21662  src/map_assets.json
+9778316630359370b305fd5d338846ff16e6a6daf7264b4f01beddba5c40cb68        3038  src/solar.py
+0e67c6bd6015c7d9b1f64c346fb18878d0a3731dad0d3771f13e082a20186f8c        2895  src/test_glyphs.py
+
+# 70 files
